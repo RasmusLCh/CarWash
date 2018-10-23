@@ -23,5 +23,6 @@ public class WashMenu {
     //vi bruger Arraylist'en fra klassen Statistics som hedder "listOfCompletedWashses" og tilføjer "dummy data"
 
         System.out.println(statistics.getTotalWashes());
+        System.out.println("yo");
     }
 }
